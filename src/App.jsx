@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1>Aws Amplify</h1>
+     <h1>Aws Amplify sanjana</h1>
     </>
   )
 }
